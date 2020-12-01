@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     {{hoge}}
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <p>very bad</p>
   </div>
 </template>
 
